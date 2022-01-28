@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-AISHA RAHIM
+AISHA
 Use the left arrow to go back!
